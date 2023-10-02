@@ -72,6 +72,3 @@ The processed data is passed to the model which has been loaded using pickle for
 
 After testing the app to satisfaction, I proceeded to deploying the flask app in heroku which is a Platform As A Service(PAAS)
 
-![used_car_app_picture](/images/used_car_app_pic.png)
-
-Web application: https://used-cars-price-prediction-api.herokuapp.com/
